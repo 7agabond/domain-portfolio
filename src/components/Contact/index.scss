@@ -70,6 +70,12 @@
     float: right;
     text-align: center;
     margin-right: 10px;
+
+    &:hover {
+      background: rgb(95, 204, 255);
+      color: #333;
+      cursor: pointer;
+    }
   }
 }
 

@@ -1,0 +1,40 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/images/five.png",
+      "title": "Ecommerce Mock Site",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/ecommerce-site/"
+    },
+    {
+      "cover": "/portfolio/images/six.png",
+      "title": "Fitness Dashboard",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/fitness-dashboard/"
+    },
+    {
+      "cover": "/portfolio/images/two.png",
+      "title": "MDN Docs Contributor",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://github.com/mdn/content"
+    },
+    {
+      "cover": "/portfolio/images/three.png",
+      "title": "Vexip UI Contributor",
+      "description": "Vue, JavaScript, TypeScript, HTML, CSS",
+      "url": "https://github.com/vexip-ui/vexip-ui"
+    },
+    {
+      "cover": "/portfolio/images/one.png",
+      "title": "Tic Tac Toe",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/vanilla-js-t3/"
+    },
+    {
+      "cover": "/portfolio/images/four.png",
+      "title": "Magazine Site",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/fcc-lesson-13/"
+    }
+  ]
+}

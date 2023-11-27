@@ -7,6 +7,12 @@
       "url": "https://7agabond.github.io/ecommerce-site/"
     },
     {
+      "cover": "/portfolio/images/seven.png",
+      "title": "Sticky Scroll Effect",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/sticky-navigation-effect/"
+    },
+    {
       "cover": "/portfolio/images/six.png",
       "title": "Fitness Dashboard",
       "description": "React, JavaScript, HTML, CSS",

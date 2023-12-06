@@ -1,22 +1,28 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/images/eight.png",
+      "title": "Modern Bank Site",
+      "description": "React, Tailwind, JavaScript, HTML, CSS",
+      "url": "https://resonant-cheesecake-0ef07b.netlify.app/"
+    },
+    {
       "cover": "/portfolio/images/five.png",
       "title": "Ecommerce Mock Site",
       "description": "React, JavaScript, HTML, CSS",
       "url": "https://7agabond.github.io/ecommerce-site/"
     },
     {
-      "cover": "/portfolio/images/seven.png",
-      "title": "Sticky Scroll Effect",
-      "description": "React, JavaScript, HTML, CSS",
-      "url": "https://7agabond.github.io/sticky-navigation-effect/"
-    },
-    {
       "cover": "/portfolio/images/six.png",
       "title": "Fitness Dashboard",
       "description": "React, JavaScript, HTML, CSS",
       "url": "https://7agabond.github.io/fitness-dashboard/"
+    },
+    {
+      "cover": "/portfolio/images/seven.png",
+      "title": "Sticky Scroll Effect",
+      "description": "React, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/sticky-navigation-effect/"
     },
     {
       "cover": "/portfolio/images/two.png",

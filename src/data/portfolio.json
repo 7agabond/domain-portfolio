@@ -7,27 +7,33 @@
       "url": "https://resonant-cheesecake-0ef07b.netlify.app/"
     },
     {
+      "cover": "/portfolio/images/nine.png",
+      "title": "React Data Finance",
+      "description": "React, Tailwind, JavaScript, HTML, CSS",
+      "url": "https://7agabond.github.io/react-data-finance/"
+    },
+    {
       "cover": "/portfolio/images/five.png",
       "title": "Ecommerce Mock Site",
-      "description": "React, JavaScript, HTML, CSS",
+      "description": "JavaScript, HTML, CSS",
       "url": "https://7agabond.github.io/ecommerce-site/"
     },
     {
       "cover": "/portfolio/images/six.png",
       "title": "Fitness Dashboard",
-      "description": "React, JavaScript, HTML, CSS",
+      "description": "JavaScript, HTML, CSS",
       "url": "https://7agabond.github.io/fitness-dashboard/"
     },
     {
       "cover": "/portfolio/images/seven.png",
       "title": "Sticky Scroll Effect",
-      "description": "React, JavaScript, HTML, CSS",
+      "description": "JavaScript, HTML, CSS",
       "url": "https://7agabond.github.io/sticky-navigation-effect/"
     },
     {
       "cover": "/portfolio/images/two.png",
       "title": "MDN Docs Contributor",
-      "description": "React, JavaScript, HTML, CSS",
+      "description": "JavaScript, HTML, CSS",
       "url": "https://github.com/mdn/content"
     },
     {

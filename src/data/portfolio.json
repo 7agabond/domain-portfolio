@@ -1,6 +1,12 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/images/ten.png",
+      "title": "Solo Transport Website",
+      "description": "React, Tailwind, JavaScript, HTML, CSS",
+      "url": "https://calm-biscuit-8f752c.netlify.app/"
+    },
+    {
       "cover": "/portfolio/images/eight.png",
       "title": "Modern Bank Site",
       "description": "React, Tailwind, JavaScript, HTML, CSS",
